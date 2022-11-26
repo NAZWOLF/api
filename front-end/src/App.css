@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.kharkov{
+  align-items: center;
+
+}
+ .sancopi{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+ }
+
+ input{
+  width: 250px;
+  height: 30px;
+ }
+ button{
+  width: 250px;
+  height: 30px;
+ }
+.one{
+  text-align: center;
+}
+.logino{
+  width: 80px;
+}
